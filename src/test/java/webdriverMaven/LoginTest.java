@@ -30,7 +30,7 @@ public class LoginTest {
 	
 	@AfterSuite
 	public void tearDown() {
-		
+		/* adding comments */
 		driver.quit();
 	}
 
